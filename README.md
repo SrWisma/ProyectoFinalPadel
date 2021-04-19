@@ -12,3 +12,4 @@ Quiero desarrollar una página web para mi club de pádel (Padel Game Xerez). La
   5. Reserva: Y por último una página para poder reservar una de las cinco pistas que hay en el club, con sus horarios a elegir y cancelación de reservas.
 
 ## **DESARROLLO**
+Como entorno de desarrollo voy a utilizar Microsoft Visual Studio Community, trabajaré con la tecnología .Net Core. Como biblioteca de componentes voy a utilizar la proporcionada por la empresa Syncfusion para tecnología .Net Core. SQL Server como gestor de base de datos.
